@@ -56,7 +56,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Compelling Story</h3>
-                <p className="text-gray-600">A narrative that grips you from the first page and doesn't let go until the very end.</p>
+                <p className="text-gray-600">A narrative that grips you from the first page and doesn&apos;t let go until the very end.</p>
               </div>
               <div className="text-center">
                 <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -86,7 +86,7 @@ export default function Home() {
                   About the Author
                 </h2>
                 <p className="text-gray-300 text-lg mb-6 leading-relaxed">
-                  A passionate storyteller with years of experience crafting narratives that resonate with readers around the world. Known for creating vivid characters and immersive worlds that stay with you long after you've turned the final page.
+                  A passionate storyteller with years of experience crafting narratives that resonate with readers around the world. Known for creating vivid characters and immersive worlds that stay with you long after you&apos;ve turned the final page.
                 </p>
                 <p className="text-gray-300 text-lg mb-8 leading-relaxed">
                   When not writing, you can find them exploring new places, reading voraciously, and drawing inspiration from the everyday moments that make life extraordinary.
